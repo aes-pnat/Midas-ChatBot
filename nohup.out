@@ -1,0 +1,35 @@
+/home/apasalic/anaconda/envs/nlp_env/lib/python3.11/getpass.py:91: GetPassWarning: Can not control echo on the terminal.
+  passwd = fallback_getpass(prompt, stream)
+Traceback (most recent call last):
+  File "/home/apasalic/anaconda/envs/nlp_env/lib/python3.11/getpass.py", line 77, in unix_getpass
+    passwd = _raw_input(prompt, stream, input=input)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apasalic/anaconda/envs/nlp_env/lib/python3.11/getpass.py", line 146, in _raw_input
+    line = input.readline()
+           ^^^^^^^^^^^^^^^^
+OSError: [Errno 5] Input/output error
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/apasalic/anaconda/envs/nlp_env/lib/python3.11/getpass.py", line 79, in unix_getpass
+    termios.tcsetattr(fd, tcsetattr_flags, old)
+termios.error: (5, 'Input/output error')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/apasalic/workspace/Midas-ChatBot/Scraper.py", line 68, in <module>
+    main()
+  File "/home/apasalic/workspace/Midas-ChatBot/Scraper.py", line 26, in main
+    password = getpass("Enter password: ")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apasalic/anaconda/envs/nlp_env/lib/python3.11/getpass.py", line 91, in unix_getpass
+    passwd = fallback_getpass(prompt, stream)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apasalic/anaconda/envs/nlp_env/lib/python3.11/getpass.py", line 126, in fallback_getpass
+    return _raw_input(prompt, stream)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/apasalic/anaconda/envs/nlp_env/lib/python3.11/getpass.py", line 144, in _raw_input
+    stream.flush()
+OSError: [Errno 5] Input/output error
