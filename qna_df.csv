@@ -1,0 +1,706 @@
+questions,answers,tags
+Hi,Hello,welcome
+Hi,Glad to see you again,welcome
+Hi,"Hi there, How can I help  you",welcome
+Hi,Hello! what you are looking for?,welcome
+Hi,"Hello, how may I help you",welcome
+Hello,Hello,welcome
+Hello,Glad to see you again,welcome
+Hello,"Hi there, How can I help  you",welcome
+Hello,Hello! what you are looking for?,welcome
+Hello,"Hello, how may I help you",welcome
+How are you,Hello,welcome
+How are you,Glad to see you again,welcome
+How are you,"Hi there, How can I help  you",welcome
+How are you,Hello! what you are looking for?,welcome
+How are you,"Hello, how may I help you",welcome
+whats up,Hello,welcome
+whats up,Glad to see you again,welcome
+whats up,"Hi there, How can I help  you",welcome
+whats up,Hello! what you are looking for?,welcome
+whats up,"Hello, how may I help you",welcome
+How do you do,Hello,welcome
+How do you do,Glad to see you again,welcome
+How do you do,"Hi there, How can I help  you",welcome
+How do you do,Hello! what you are looking for?,welcome
+How do you do,"Hello, how may I help you",welcome
+How’s the day?,Hello,welcome
+How’s the day?,Glad to see you again,welcome
+How’s the day?,"Hi there, How can I help  you",welcome
+How’s the day?,Hello! what you are looking for?,welcome
+How’s the day?,"Hello, how may I help you",welcome
+Hey are you there,Hello,welcome
+Hey are you there,Glad to see you again,welcome
+Hey are you there,"Hi there, How can I help  you",welcome
+Hey are you there,Hello! what you are looking for?,welcome
+Hey are you there,"Hello, how may I help you",welcome
+How is everything going,Hello,welcome
+How is everything going,Glad to see you again,welcome
+How is everything going,"Hi there, How can I help  you",welcome
+How is everything going,Hello! what you are looking for?,welcome
+How is everything going,"Hello, how may I help you",welcome
+glad to meet you,Hello,welcome
+glad to meet you,Glad to see you again,welcome
+glad to meet you,"Hi there, How can I help  you",welcome
+glad to meet you,Hello! what you are looking for?,welcome
+glad to meet you,"Hello, how may I help you",welcome
+see you. bye,"Hey, Thank you for visiting",endingnote
+see you. bye,"Hope to see you again, it was nice talking with you",endingnote
+see you. bye, wish you a good day! Hope to have a talk with you later,endingnote
+see you. bye,Thanks for your time with us.Hope you enjoyed it and satisfied. See you later,endingnote
+see you. bye,Sad to see you go. Come whenever you need to bye from us. Stay intouch.,endingnote
+Good Bye,"Hey, Thank you for visiting",endingnote
+Good Bye,"Hope to see you again, it was nice talking with you",endingnote
+Good Bye, wish you a good day! Hope to have a talk with you later,endingnote
+Good Bye,Thanks for your time with us.Hope you enjoyed it and satisfied. See you later,endingnote
+Good Bye,Sad to see you go. Come whenever you need to bye from us. Stay intouch.,endingnote
+ok then bye,"Hey, Thank you for visiting",endingnote
+ok then bye,"Hope to see you again, it was nice talking with you",endingnote
+ok then bye, wish you a good day! Hope to have a talk with you later,endingnote
+ok then bye,Thanks for your time with us.Hope you enjoyed it and satisfied. See you later,endingnote
+ok then bye,Sad to see you go. Come whenever you need to bye from us. Stay intouch.,endingnote
+That’ s enough for me,"Hey, Thank you for visiting",endingnote
+That’ s enough for me,"Hope to see you again, it was nice talking with you",endingnote
+That’ s enough for me, wish you a good day! Hope to have a talk with you later,endingnote
+That’ s enough for me,Thanks for your time with us.Hope you enjoyed it and satisfied. See you later,endingnote
+That’ s enough for me,Sad to see you go. Come whenever you need to bye from us. Stay intouch.,endingnote
+ Im leaving,"Hey, Thank you for visiting",endingnote
+ Im leaving,"Hope to see you again, it was nice talking with you",endingnote
+ Im leaving, wish you a good day! Hope to have a talk with you later,endingnote
+ Im leaving,Thanks for your time with us.Hope you enjoyed it and satisfied. See you later,endingnote
+ Im leaving,Sad to see you go. Come whenever you need to bye from us. Stay intouch.,endingnote
+See u later! Goodbye,"Hey, Thank you for visiting",endingnote
+See u later! Goodbye,"Hope to see you again, it was nice talking with you",endingnote
+See u later! Goodbye, wish you a good day! Hope to have a talk with you later,endingnote
+See u later! Goodbye,Thanks for your time with us.Hope you enjoyed it and satisfied. See you later,endingnote
+See u later! Goodbye,Sad to see you go. Come whenever you need to bye from us. Stay intouch.,endingnote
+nice to meet you,"Hey, Thank you for visiting",endingnote
+nice to meet you,"Hope to see you again, it was nice talking with you",endingnote
+nice to meet you, wish you a good day! Hope to have a talk with you later,endingnote
+nice to meet you,Thanks for your time with us.Hope you enjoyed it and satisfied. See you later,endingnote
+nice to meet you,Sad to see you go. Come whenever you need to bye from us. Stay intouch.,endingnote
+"The bargaining session was fun!I’m happy that I got it at cheap price, see u again","Hey, Thank you for visiting",endingnote
+"The bargaining session was fun!I’m happy that I got it at cheap price, see u again","Hope to see you again, it was nice talking with you",endingnote
+"The bargaining session was fun!I’m happy that I got it at cheap price, see u again", wish you a good day! Hope to have a talk with you later,endingnote
+"The bargaining session was fun!I’m happy that I got it at cheap price, see u again",Thanks for your time with us.Hope you enjoyed it and satisfied. See you later,endingnote
+"The bargaining session was fun!I’m happy that I got it at cheap price, see u again",Sad to see you go. Come whenever you need to bye from us. Stay intouch.,endingnote
+"Enjoyed the experience, good bye","Hey, Thank you for visiting",endingnote
+"Enjoyed the experience, good bye","Hope to see you again, it was nice talking with you",endingnote
+"Enjoyed the experience, good bye", wish you a good day! Hope to have a talk with you later,endingnote
+"Enjoyed the experience, good bye",Thanks for your time with us.Hope you enjoyed it and satisfied. See you later,endingnote
+"Enjoyed the experience, good bye",Sad to see you go. Come whenever you need to bye from us. Stay intouch.,endingnote
+whats you name?,"It’s FinBot here, a digital+financial assistant to help you out",name
+whats you name?,"You can call me FinBot.Im a chatRobot/chatbot, tell me what you want",name
+whats you name?,"I’m FinBot,a digital+financial assistant, I can guide you in our ecommerce website.",name
+whats you name?,"Its FinBot Here,a digital +financial assistant. How may I help you?",name
+who are you?,"It’s FinBot here, a digital+financial assistant to help you out",name
+who are you?,"You can call me FinBot.Im a chatRobot/chatbot, tell me what you want",name
+who are you?,"I’m FinBot,a digital+financial assistant, I can guide you in our ecommerce website.",name
+who are you?,"Its FinBot Here,a digital +financial assistant. How may I help you?",name
+what can I call you,"It’s FinBot here, a digital+financial assistant to help you out",name
+what can I call you,"You can call me FinBot.Im a chatRobot/chatbot, tell me what you want",name
+what can I call you,"I’m FinBot,a digital+financial assistant, I can guide you in our ecommerce website.",name
+what can I call you,"Its FinBot Here,a digital +financial assistant. How may I help you?",name
+tell me your name,"It’s FinBot here, a digital+financial assistant to help you out",name
+tell me your name,"You can call me FinBot.Im a chatRobot/chatbot, tell me what you want",name
+tell me your name,"I’m FinBot,a digital+financial assistant, I can guide you in our ecommerce website.",name
+tell me your name,"Its FinBot Here,a digital +financial assistant. How may I help you?",name
+Are u a robot,"It’s FinBot here, a digital+financial assistant to help you out",name
+Are u a robot,"You can call me FinBot.Im a chatRobot/chatbot, tell me what you want",name
+Are u a robot,"I’m FinBot,a digital+financial assistant, I can guide you in our ecommerce website.",name
+Are u a robot,"Its FinBot Here,a digital +financial assistant. How may I help you?",name
+Are you a chatbot,"It’s FinBot here, a digital+financial assistant to help you out",name
+Are you a chatbot,"You can call me FinBot.Im a chatRobot/chatbot, tell me what you want",name
+Are you a chatbot,"I’m FinBot,a digital+financial assistant, I can guide you in our ecommerce website.",name
+Are you a chatbot,"Its FinBot Here,a digital +financial assistant. How may I help you?",name
+I would like to buy something here,"Yes please, we have a lot of new collections for you",shopping
+I would like to buy something here,"Ofcourse, there are new offers for you, fantastic selections, choose what interests you!",shopping
+I would like to buy something here,"Well casual shoes at Rs 220, this offer won’t stay much",shopping
+I would like to buy something here,there are good varieties of coloured shoes too also there are black formal shoes. Take one,shopping
+can I buy something,"Yes please, we have a lot of new collections for you",shopping
+can I buy something,"Ofcourse, there are new offers for you, fantastic selections, choose what interests you!",shopping
+can I buy something,"Well casual shoes at Rs 220, this offer won’t stay much",shopping
+can I buy something,there are good varieties of coloured shoes too also there are black formal shoes. Take one,shopping
+What all things are there,"Yes please, we have a lot of new collections for you",shopping
+What all things are there,"Ofcourse, there are new offers for you, fantastic selections, choose what interests you!",shopping
+What all things are there,"Well casual shoes at Rs 220, this offer won’t stay much",shopping
+What all things are there,there are good varieties of coloured shoes too also there are black formal shoes. Take one,shopping
+can you recommend me something from here,"Yes please, we have a lot of new collections for you",shopping
+can you recommend me something from here,"Ofcourse, there are new offers for you, fantastic selections, choose what interests you!",shopping
+can you recommend me something from here,"Well casual shoes at Rs 220, this offer won’t stay much",shopping
+can you recommend me something from here,there are good varieties of coloured shoes too also there are black formal shoes. Take one,shopping
+is there any thing cheaper here,"Yes please, we have a lot of new collections for you",shopping
+is there any thing cheaper here,"Ofcourse, there are new offers for you, fantastic selections, choose what interests you!",shopping
+is there any thing cheaper here,"Well casual shoes at Rs 220, this offer won’t stay much",shopping
+is there any thing cheaper here,there are good varieties of coloured shoes too also there are black formal shoes. Take one,shopping
+"Hey, I want a black shoe","Yes please, we have a lot of new collections for you",shopping
+"Hey, I want a black shoe","Ofcourse, there are new offers for you, fantastic selections, choose what interests you!",shopping
+"Hey, I want a black shoe","Well casual shoes at Rs 220, this offer won’t stay much",shopping
+"Hey, I want a black shoe",there are good varieties of coloured shoes too also there are black formal shoes. Take one,shopping
+till what time this be offered?,Our shop centre will be open from 9 am-9pm in all the days,time period
+till what time this be offered?,"Yes, we are operating on all the weekdays from 9 am to 9pm",time period
+till what time this be offered?,We are there to provide services from Monday-sunday from 9 am-9pm,time period
+till what time this be offered?,We are operating from 9 am-9 pm every day,time period
+When will the shop close?,Our shop centre will be open from 9 am-9pm in all the days,time period
+When will the shop close?,"Yes, we are operating on all the weekdays from 9 am to 9pm",time period
+When will the shop close?,We are there to provide services from Monday-sunday from 9 am-9pm,time period
+When will the shop close?,We are operating from 9 am-9 pm every day,time period
+when will the shop open,Our shop centre will be open from 9 am-9pm in all the days,time period
+when will the shop open,"Yes, we are operating on all the weekdays from 9 am to 9pm",time period
+when will the shop open,We are there to provide services from Monday-sunday from 9 am-9pm,time period
+when will the shop open,We are operating from 9 am-9 pm every day,time period
+How much time it will take for delivery,Our shop centre will be open from 9 am-9pm in all the days,time period
+How much time it will take for delivery,"Yes, we are operating on all the weekdays from 9 am to 9pm",time period
+How much time it will take for delivery,We are there to provide services from Monday-sunday from 9 am-9pm,time period
+How much time it will take for delivery,We are operating from 9 am-9 pm every day,time period
+When will this site close?,Our shop centre will be open from 9 am-9pm in all the days,time period
+When will this site close?,"Yes, we are operating on all the weekdays from 9 am to 9pm",time period
+When will this site close?,We are there to provide services from Monday-sunday from 9 am-9pm,time period
+When will this site close?,We are operating from 9 am-9 pm every day,time period
+When are you people open,Our shop centre will be open from 9 am-9pm in all the days,time period
+When are you people open,"Yes, we are operating on all the weekdays from 9 am to 9pm",time period
+When are you people open,We are there to provide services from Monday-sunday from 9 am-9pm,time period
+When are you people open,We are operating from 9 am-9 pm every day,time period
+When will this store be open?,Our shop centre will be open from 9 am-9pm in all the days,time period
+When will this store be open?,"Yes, we are operating on all the weekdays from 9 am to 9pm",time period
+When will this store be open?,We are there to provide services from Monday-sunday from 9 am-9pm,time period
+When will this store be open?,We are operating from 9 am-9 pm every day,time period
+Is this store will be open at Sunday?,Our shop centre will be open from 9 am-9pm in all the days,time period
+Is this store will be open at Sunday?,"Yes, we are operating on all the weekdays from 9 am to 9pm",time period
+Is this store will be open at Sunday?,We are there to provide services from Monday-sunday from 9 am-9pm,time period
+Is this store will be open at Sunday?,We are operating from 9 am-9 pm every day,time period
+What is your location?,"We are on the intersection of state Alley and Techno Avenue, Delhi, India",location
+What is your location?,"We are situated at the intersection of  state Alley and Techno Avenue in Delhi, India",location
+What is your location?,"Our Address is: 1000 Techno Avenue, Delhi, India",location
+Where are you located?,"We are on the intersection of state Alley and Techno Avenue, Delhi, India",location
+Where are you located?,"We are situated at the intersection of  state Alley and Techno Avenue in Delhi, India",location
+Where are you located?,"Our Address is: 1000 Techno Avenue, Delhi, India",location
+What is your address?,"We are on the intersection of state Alley and Techno Avenue, Delhi, India",location
+What is your address?,"We are situated at the intersection of  state Alley and Techno Avenue in Delhi, India",location
+What is your address?,"Our Address is: 1000 Techno Avenue, Delhi, India",location
+Where is your restaurant situated?,"We are on the intersection of state Alley and Techno Avenue, Delhi, India",location
+Where is your restaurant situated?,"We are situated at the intersection of  state Alley and Techno Avenue in Delhi, India",location
+Where is your restaurant situated?,"Our Address is: 1000 Techno Avenue, Delhi, India",location
+Do you take credit cards?,"We accept VISA, Mastercard and AMEX",payments
+Do you take credit cards?,We accept most major credit cards,payments
+Do you accept Mastercard?,"We accept VISA, Mastercard and AMEX",payments
+Do you accept Mastercard?,We accept most major credit cards,payments
+Are you cash only?,"We accept VISA, Mastercard and AMEX",payments
+Are you cash only?,We accept most major credit cards,payments
+will you accept credit card,"We accept VISA, Mastercard and AMEX",payments
+will you accept credit card,We accept most major credit cards,payments
+can i pay by credit card,"We accept VISA, Mastercard and AMEX",payments
+can i pay by credit card,We accept most major credit cards,payments
+What is the new collections for today?,We have buy one get one offer for kurtis and shirts. Also new colour selections of traditional wears,todaysOffers
+What is the new collections for today?,Our speciality for today is trendy new collections of traditional wears and also buy one get one offer for some things,todaysOffers
+What new collections you have today?,We have buy one get one offer for kurtis and shirts. Also new colour selections of traditional wears,todaysOffers
+What new collections you have today?,Our speciality for today is trendy new collections of traditional wears and also buy one get one offer for some things,todaysOffers
+Tell me today's collection,We have buy one get one offer for kurtis and shirts. Also new colour selections of traditional wears,todaysOffers
+Tell me today's collection,Our speciality for today is trendy new collections of traditional wears and also buy one get one offer for some things,todaysOffers
+Do you provide delivery to home?,"Yes, we provide home delivery of the proiducts through our agents?",deliveryoption
+Do you provide delivery to home?,We have home delivery options through our agents,deliveryoption
+Do you deliver the clothes?,"Yes, we provide home delivery of the proiducts through our agents?",deliveryoption
+Do you deliver the clothes?,We have home delivery options through our agents,deliveryoption
+What are the home delivery options?,"Yes, we provide home delivery of the proiducts through our agents?",deliveryoption
+What are the home delivery options?,We have home delivery options through our agents,deliveryoption
+Tell me the delivery options you have,"Yes, we provide home delivery of the proiducts through our agents?",deliveryoption
+Tell me the delivery options you have,We have home delivery options through our agents,deliveryoption
+what is the price for a formal wear,For  a formal wear it will cost in a range of 750-2500 Rs according to your selection,price of formal wear
+what is the price for a formal wear,There are a number of varieties of suits or formal wears ranging from 500-1500,price of formal wear
+what is the price for a formal wear,Its not much expensive to have the same. There are several discounts available,price of formal wear
+what is the price for a formal wear,it has an average cost of 1200 Rs,price of formal wear
+How much will it cost to buy a formal wear,For  a formal wear it will cost in a range of 750-2500 Rs according to your selection,price of formal wear
+How much will it cost to buy a formal wear,There are a number of varieties of suits or formal wears ranging from 500-1500,price of formal wear
+How much will it cost to buy a formal wear,Its not much expensive to have the same. There are several discounts available,price of formal wear
+How much will it cost to buy a formal wear,it has an average cost of 1200 Rs,price of formal wear
+"Will it be much expensive to buy a branded suit, how much is the average cost",For  a formal wear it will cost in a range of 750-2500 Rs according to your selection,price of formal wear
+"Will it be much expensive to buy a branded suit, how much is the average cost",There are a number of varieties of suits or formal wears ranging from 500-1500,price of formal wear
+"Will it be much expensive to buy a branded suit, how much is the average cost",Its not much expensive to have the same. There are several discounts available,price of formal wear
+"Will it be much expensive to buy a branded suit, how much is the average cost",it has an average cost of 1200 Rs,price of formal wear
+what is the price for a saree,The price of saree depends upon the colour and design of the same ,price of a saree
+what is the price for a saree,We have collections of trending sarees ranging from 500Rs to 10000 Rs,price of a saree
+How much will it cost to buy a saree,The price of saree depends upon the colour and design of the same ,price of a saree
+How much will it cost to buy a saree,We have collections of trending sarees ranging from 500Rs to 10000 Rs,price of a saree
+What is the cost of a saree,The price of saree depends upon the colour and design of the same ,price of a saree
+What is the cost of a saree,We have collections of trending sarees ranging from 500Rs to 10000 Rs,price of a saree
+Cost of a saree,The price of saree depends upon the colour and design of the same ,price of a saree
+Cost of a saree,We have collections of trending sarees ranging from 500Rs to 10000 Rs,price of a saree
+Price of a saree,The price of saree depends upon the colour and design of the same ,price of a saree
+Price of a saree,We have collections of trending sarees ranging from 500Rs to 10000 Rs,price of a saree
+Thank you,Its my pleasure.,Thank you
+Thank you,You are welcome,Thank you
+Thank you,No problem. Its my pleasure to help you,Thank you
+Thank you so much for your help,Its my pleasure.,Thank you
+Thank you so much for your help,You are welcome,Thank you
+Thank you so much for your help,No problem. Its my pleasure to help you,Thank you
+Can i bargain for any product today,"Yes, we have a bargaining offer for ribbon today. Its rated price is 30 Rs",Bargain offer
+Can i bargain for any product today,"yes, today you can bargaining for a ribbon. its rated price is 30 Rs",Bargain offer
+For what product do you have bargaining offer today,"Yes, we have a bargaining offer for ribbon today. Its rated price is 30 Rs",Bargain offer
+For what product do you have bargaining offer today,"yes, today you can bargaining for a ribbon. its rated price is 30 Rs",Bargain offer
+can you bargain today,"Yes, we have a bargaining offer for ribbon today. Its rated price is 30 Rs",Bargain offer
+can you bargain today,"yes, today you can bargaining for a ribbon. its rated price is 30 Rs",Bargain offer
+can I bargain today,"Yes, we have a bargaining offer for ribbon today. Its rated price is 30 Rs",Bargain offer
+can I bargain today,"yes, today you can bargaining for a ribbon. its rated price is 30 Rs",Bargain offer
+Which product can I bargain today,"Yes, we have a bargaining offer for ribbon today. Its rated price is 30 Rs",Bargain offer
+Which product can I bargain today,"yes, today you can bargaining for a ribbon. its rated price is 30 Rs",Bargain offer
+Tell me is there a product to bargain,"Yes, we have a bargaining offer for ribbon today. Its rated price is 30 Rs",Bargain offer
+Tell me is there a product to bargain,"yes, today you can bargaining for a ribbon. its rated price is 30 Rs",Bargain offer
+tell me the value of a bitcoin,"1 Bitcoin equals 14,14,998.64 Indian Rupee",bitcoin
+tell me the value of a bitcoin,Bitcoin is a digital or virtual currency created in 2009 that uses peer-to-peer technology to facilitate instant payments,bitcoin
+tell me the value of a bitcoin,Bitcoin is a cryptocurrency created in 2009. Marketplaces called “bitcoin exchanges” allow people to buy or sell bitcoins using different currencies,bitcoin
+what is bitcoin,"1 Bitcoin equals 14,14,998.64 Indian Rupee",bitcoin
+what is bitcoin,Bitcoin is a digital or virtual currency created in 2009 that uses peer-to-peer technology to facilitate instant payments,bitcoin
+what is bitcoin,Bitcoin is a cryptocurrency created in 2009. Marketplaces called “bitcoin exchanges” allow people to buy or sell bitcoins using different currencies,bitcoin
+Can you tell more about bitcoin?,"1 Bitcoin equals 14,14,998.64 Indian Rupee",bitcoin
+Can you tell more about bitcoin?,Bitcoin is a digital or virtual currency created in 2009 that uses peer-to-peer technology to facilitate instant payments,bitcoin
+Can you tell more about bitcoin?,Bitcoin is a cryptocurrency created in 2009. Marketplaces called “bitcoin exchanges” allow people to buy or sell bitcoins using different currencies,bitcoin
+What can be bitcoin,"1 Bitcoin equals 14,14,998.64 Indian Rupee",bitcoin
+What can be bitcoin,Bitcoin is a digital or virtual currency created in 2009 that uses peer-to-peer technology to facilitate instant payments,bitcoin
+What can be bitcoin,Bitcoin is a cryptocurrency created in 2009. Marketplaces called “bitcoin exchanges” allow people to buy or sell bitcoins using different currencies,bitcoin
+what do you mean by bitcoin,"1 Bitcoin equals 14,14,998.64 Indian Rupee",bitcoin
+what do you mean by bitcoin,Bitcoin is a digital or virtual currency created in 2009 that uses peer-to-peer technology to facilitate instant payments,bitcoin
+what do you mean by bitcoin,Bitcoin is a cryptocurrency created in 2009. Marketplaces called “bitcoin exchanges” allow people to buy or sell bitcoins using different currencies,bitcoin
+what is Asymmetric Information,"It is a type of market failure exists when one individual or party has much more information than another individual or party, and uses that advantage to exploit the other party.",AsymmetricInformation
+what is Asymmetric Information,Finance is a market in information – often a potential borrower (such as a small business) has better information on the likelihood that they will be able to repay a loan than the lender.,AsymmetricInformation
+Tell me about Asymmetric information in finance markets,"It is a type of market failure exists when one individual or party has much more information than another individual or party, and uses that advantage to exploit the other party.",AsymmetricInformation
+Tell me about Asymmetric information in finance markets,Finance is a market in information – often a potential borrower (such as a small business) has better information on the likelihood that they will be able to repay a loan than the lender.,AsymmetricInformation
+Do you know about Asymmetric information,"It is a type of market failure exists when one individual or party has much more information than another individual or party, and uses that advantage to exploit the other party.",AsymmetricInformation
+Do you know about Asymmetric information,Finance is a market in information – often a potential borrower (such as a small business) has better information on the likelihood that they will be able to repay a loan than the lender.,AsymmetricInformation
+What can be Asymmetric information,"It is a type of market failure exists when one individual or party has much more information than another individual or party, and uses that advantage to exploit the other party.",AsymmetricInformation
+What can be Asymmetric information,Finance is a market in information – often a potential borrower (such as a small business) has better information on the likelihood that they will be able to repay a loan than the lender.,AsymmetricInformation
+what do you mean by Asymmetric information,"It is a type of market failure exists when one individual or party has much more information than another individual or party, and uses that advantage to exploit the other party.",AsymmetricInformation
+what do you mean by Asymmetric information,Finance is a market in information – often a potential borrower (such as a small business) has better information on the likelihood that they will be able to repay a loan than the lender.,AsymmetricInformation
+what is bail-out,A bail-out happens when a government buys an equity stake in a bank or some other form of financial support to prevent it from failing,bail-out
+what is bail-out,Critics of bail-outs argue that it can increase the burden facing taxpayers and also increase the risk of moral hazard.Supporters of bail-outs claim that they are sometimes necessary during a financial crisis to help reduce systemic risk.,bail-out
+what is bail-out, Bail outs have become prominent once again because of the economic and social consequences of the coronavirus crisis.,bail-out
+Do you know about bail-out in financial markets,A bail-out happens when a government buys an equity stake in a bank or some other form of financial support to prevent it from failing,bail-out
+Do you know about bail-out in financial markets,Critics of bail-outs argue that it can increase the burden facing taxpayers and also increase the risk of moral hazard.Supporters of bail-outs claim that they are sometimes necessary during a financial crisis to help reduce systemic risk.,bail-out
+Do you know about bail-out in financial markets, Bail outs have become prominent once again because of the economic and social consequences of the coronavirus crisis.,bail-out
+Tell me about bailout,A bail-out happens when a government buys an equity stake in a bank or some other form of financial support to prevent it from failing,bail-out
+Tell me about bailout,Critics of bail-outs argue that it can increase the burden facing taxpayers and also increase the risk of moral hazard.Supporters of bail-outs claim that they are sometimes necessary during a financial crisis to help reduce systemic risk.,bail-out
+Tell me about bailout, Bail outs have become prominent once again because of the economic and social consequences of the coronavirus crisis.,bail-out
+What does critics and supporter say about bail-out,A bail-out happens when a government buys an equity stake in a bank or some other form of financial support to prevent it from failing,bail-out
+What does critics and supporter say about bail-out,Critics of bail-outs argue that it can increase the burden facing taxpayers and also increase the risk of moral hazard.Supporters of bail-outs claim that they are sometimes necessary during a financial crisis to help reduce systemic risk.,bail-out
+What does critics and supporter say about bail-out, Bail outs have become prominent once again because of the economic and social consequences of the coronavirus crisis.,bail-out
+bail-out,A bail-out happens when a government buys an equity stake in a bank or some other form of financial support to prevent it from failing,bail-out
+bail-out,Critics of bail-outs argue that it can increase the burden facing taxpayers and also increase the risk of moral hazard.Supporters of bail-outs claim that they are sometimes necessary during a financial crisis to help reduce systemic risk.,bail-out
+bail-out, Bail outs have become prominent once again because of the economic and social consequences of the coronavirus crisis.,bail-out
+what is a balance sheet,"A record of the assets, liabilities, and net worth of an economic actor such as a household, commercial or central bank, firm, or government",Balance sheet
+what is a balance sheet,"A balance sheet is a financial statement that reports a company's assets, liabilities and shareholders' equity.",Balance sheet
+what is a balance sheet,The balance sheet is one of the three (income statement and statement of cash flows being the other two) core financial statements used to evaluate a business.,Balance sheet
+Tell me about Balance sheet,"A record of the assets, liabilities, and net worth of an economic actor such as a household, commercial or central bank, firm, or government",Balance sheet
+Tell me about Balance sheet,"A balance sheet is a financial statement that reports a company's assets, liabilities and shareholders' equity.",Balance sheet
+Tell me about Balance sheet,The balance sheet is one of the three (income statement and statement of cash flows being the other two) core financial statements used to evaluate a business.,Balance sheet
+Do you know Balance sheet?,"A record of the assets, liabilities, and net worth of an economic actor such as a household, commercial or central bank, firm, or government",Balance sheet
+Do you know Balance sheet?,"A balance sheet is a financial statement that reports a company's assets, liabilities and shareholders' equity.",Balance sheet
+Do you know Balance sheet?,The balance sheet is one of the three (income statement and statement of cash flows being the other two) core financial statements used to evaluate a business.,Balance sheet
+Balance sheet,"A record of the assets, liabilities, and net worth of an economic actor such as a household, commercial or central bank, firm, or government",Balance sheet
+Balance sheet,"A balance sheet is a financial statement that reports a company's assets, liabilities and shareholders' equity.",Balance sheet
+Balance sheet,The balance sheet is one of the three (income statement and statement of cash flows being the other two) core financial statements used to evaluate a business.,Balance sheet
+What can be Balance sheet,"A record of the assets, liabilities, and net worth of an economic actor such as a household, commercial or central bank, firm, or government",Balance sheet
+What can be Balance sheet,"A balance sheet is a financial statement that reports a company's assets, liabilities and shareholders' equity.",Balance sheet
+What can be Balance sheet,The balance sheet is one of the three (income statement and statement of cash flows being the other two) core financial statements used to evaluate a business.,Balance sheet
+what do you mean by Balance sheet,"A record of the assets, liabilities, and net worth of an economic actor such as a household, commercial or central bank, firm, or government",Balance sheet
+what do you mean by Balance sheet,"A balance sheet is a financial statement that reports a company's assets, liabilities and shareholders' equity.",Balance sheet
+what do you mean by Balance sheet,The balance sheet is one of the three (income statement and statement of cash flows being the other two) core financial statements used to evaluate a business.,Balance sheet
+what is a bank,A bank in simple terms is a business that makes its profit by paying interest to those who keep money there and charging a higher rate of interest to people/businesses who borrow money from the bank,bank
+What exactly bank does,A bank in simple terms is a business that makes its profit by paying interest to those who keep money there and charging a higher rate of interest to people/businesses who borrow money from the bank,bank
+can you tell me about bank,A bank in simple terms is a business that makes its profit by paying interest to those who keep money there and charging a higher rate of interest to people/businesses who borrow money from the bank,bank
+bank,A bank in simple terms is a business that makes its profit by paying interest to those who keep money there and charging a higher rate of interest to people/businesses who borrow money from the bank,bank
+What can be bank,A bank in simple terms is a business that makes its profit by paying interest to those who keep money there and charging a higher rate of interest to people/businesses who borrow money from the bank,bank
+what do you mean by bank,A bank in simple terms is a business that makes its profit by paying interest to those who keep money there and charging a higher rate of interest to people/businesses who borrow money from the bank,bank
+what are bank assets,"Assets are “owned” by the bank e.g. cash, balances at Bank of England, loans (Advances), securities (e.g. Bonds) and fixed assets.",bank assests
+Tell me about bank assets,"Assets are “owned” by the bank e.g. cash, balances at Bank of England, loans (Advances), securities (e.g. Bonds) and fixed assets.",bank assests
+what is bank asset,"Assets are “owned” by the bank e.g. cash, balances at Bank of England, loans (Advances), securities (e.g. Bonds) and fixed assets.",bank assests
+bank assets,"Assets are “owned” by the bank e.g. cash, balances at Bank of England, loans (Advances), securities (e.g. Bonds) and fixed assets.",bank assests
+what is mean by bank assets,"Assets are “owned” by the bank e.g. cash, balances at Bank of England, loans (Advances), securities (e.g. Bonds) and fixed assets.",bank assests
+bank assets,"Assets are “owned” by the bank e.g. cash, balances at Bank of England, loans (Advances), securities (e.g. Bonds) and fixed assets.",bank assests
+What can be bank assets,"Assets are “owned” by the bank e.g. cash, balances at Bank of England, loans (Advances), securities (e.g. Bonds) and fixed assets.",bank assests
+what do you mean by bank assets,"Assets are “owned” by the bank e.g. cash, balances at Bank of England, loans (Advances), securities (e.g. Bonds) and fixed assets.",bank assests
+what is mean by bank capital?,"Bank capital is the value of the bank's assets minus its liabilities, or debts.",Bank capital
+do you know bank capital?,"Bank capital is the value of the bank's assets minus its liabilities, or debts.",Bank capital
+what is bank capital,"Bank capital is the value of the bank's assets minus its liabilities, or debts.",Bank capital
+bank capital,"Bank capital is the value of the bank's assets minus its liabilities, or debts.",Bank capital
+Tell me about Bank capital,"Bank capital is the value of the bank's assets minus its liabilities, or debts.",Bank capital
+What can be Bank capital,"Bank capital is the value of the bank's assets minus its liabilities, or debts.",Bank capital
+what do you mean by Bank capital,"Bank capital is the value of the bank's assets minus its liabilities, or debts.",Bank capital
+what is mean by bond market?,The bond market broadly describes a marketplace where investors buy debt securities that are brought to the market by either governmental entities or publicly-traded corporations,Bond market
+what is mean by bond market?,The market for interest-bearing securities (with either a fixed or a floating rate and with a maturity of at least one year) that companies and governments issue to raise capital for investment.,Bond market
+do you know bond market?,The bond market broadly describes a marketplace where investors buy debt securities that are brought to the market by either governmental entities or publicly-traded corporations,Bond market
+do you know bond market?,The market for interest-bearing securities (with either a fixed or a floating rate and with a maturity of at least one year) that companies and governments issue to raise capital for investment.,Bond market
+what is bond market?,The bond market broadly describes a marketplace where investors buy debt securities that are brought to the market by either governmental entities or publicly-traded corporations,Bond market
+what is bond market?,The market for interest-bearing securities (with either a fixed or a floating rate and with a maturity of at least one year) that companies and governments issue to raise capital for investment.,Bond market
+Bond Market,The bond market broadly describes a marketplace where investors buy debt securities that are brought to the market by either governmental entities or publicly-traded corporations,Bond market
+Bond Market,The market for interest-bearing securities (with either a fixed or a floating rate and with a maturity of at least one year) that companies and governments issue to raise capital for investment.,Bond market
+What can be Bond Market,The bond market broadly describes a marketplace where investors buy debt securities that are brought to the market by either governmental entities or publicly-traded corporations,Bond market
+What can be Bond Market,The market for interest-bearing securities (with either a fixed or a floating rate and with a maturity of at least one year) that companies and governments issue to raise capital for investment.,Bond market
+what do you mean by Bank Market,The bond market broadly describes a marketplace where investors buy debt securities that are brought to the market by either governmental entities or publicly-traded corporations,Bond market
+what do you mean by Bank Market,The market for interest-bearing securities (with either a fixed or a floating rate and with a maturity of at least one year) that companies and governments issue to raise capital for investment.,Bond market
+what is mean by Bank Run?,A situation in which depositors withdraw funds from a commercial bank because they fear that it may go bankrupt and not honour its liabilities such as the deposits of the bank's savers.,Bank Run
+what is mean by Bank Run?,A bank run occurs when a large number of customers of a bank or other financial institution withdraw their deposits simultaneously over concerns of the bank's solvency.,Bank Run
+What is bank run and how it occurs?,A situation in which depositors withdraw funds from a commercial bank because they fear that it may go bankrupt and not honour its liabilities such as the deposits of the bank's savers.,Bank Run
+What is bank run and how it occurs?,A bank run occurs when a large number of customers of a bank or other financial institution withdraw their deposits simultaneously over concerns of the bank's solvency.,Bank Run
+Do you know about bank run?,A situation in which depositors withdraw funds from a commercial bank because they fear that it may go bankrupt and not honour its liabilities such as the deposits of the bank's savers.,Bank Run
+Do you know about bank run?,A bank run occurs when a large number of customers of a bank or other financial institution withdraw their deposits simultaneously over concerns of the bank's solvency.,Bank Run
+Bank Run,A situation in which depositors withdraw funds from a commercial bank because they fear that it may go bankrupt and not honour its liabilities such as the deposits of the bank's savers.,Bank Run
+Bank Run,A bank run occurs when a large number of customers of a bank or other financial institution withdraw their deposits simultaneously over concerns of the bank's solvency.,Bank Run
+What can be bank run,A situation in which depositors withdraw funds from a commercial bank because they fear that it may go bankrupt and not honour its liabilities such as the deposits of the bank's savers.,Bank Run
+What can be bank run,A bank run occurs when a large number of customers of a bank or other financial institution withdraw their deposits simultaneously over concerns of the bank's solvency.,Bank Run
+what do you mean by bank run,A situation in which depositors withdraw funds from a commercial bank because they fear that it may go bankrupt and not honour its liabilities such as the deposits of the bank's savers.,Bank Run
+what do you mean by bank run,A bank run occurs when a large number of customers of a bank or other financial institution withdraw their deposits simultaneously over concerns of the bank's solvency.,Bank Run
+what is mean by bank reserves?,Money and liquid assets (such as securities that can be sold quickly) held by banks in order to meet withdrawals by customers.,Bank reserves
+what is mean by bank reserves?,Bank reserves are the cash minimums that must be kept on hand by financial institutions in order to meet central bank requirements,Bank reserves
+do you know bank reserves?,Money and liquid assets (such as securities that can be sold quickly) held by banks in order to meet withdrawals by customers.,Bank reserves
+do you know bank reserves?,Bank reserves are the cash minimums that must be kept on hand by financial institutions in order to meet central bank requirements,Bank reserves
+Bank reserves and how it works,Money and liquid assets (such as securities that can be sold quickly) held by banks in order to meet withdrawals by customers.,Bank reserves
+Bank reserves and how it works,Bank reserves are the cash minimums that must be kept on hand by financial institutions in order to meet central bank requirements,Bank reserves
+what is bank reserves,Money and liquid assets (such as securities that can be sold quickly) held by banks in order to meet withdrawals by customers.,Bank reserves
+what is bank reserves,Bank reserves are the cash minimums that must be kept on hand by financial institutions in order to meet central bank requirements,Bank reserves
+Bank reserves,Money and liquid assets (such as securities that can be sold quickly) held by banks in order to meet withdrawals by customers.,Bank reserves
+Bank reserves,Bank reserves are the cash minimums that must be kept on hand by financial institutions in order to meet central bank requirements,Bank reserves
+What can be Bank reserves,Money and liquid assets (such as securities that can be sold quickly) held by banks in order to meet withdrawals by customers.,Bank reserves
+What can be Bank reserves,Bank reserves are the cash minimums that must be kept on hand by financial institutions in order to meet central bank requirements,Bank reserves
+what do you mean by Bank reserves,Money and liquid assets (such as securities that can be sold quickly) held by banks in order to meet withdrawals by customers.,Bank reserves
+what do you mean by Bank reserves,Bank reserves are the cash minimums that must be kept on hand by financial institutions in order to meet central bank requirements,Bank reserves
+what is mean by a capital market?,Capital markets are the markets where securities such as shares and bonds are issued to raise medium to long-term financing.,Capital market
+capital market?,Capital markets are the markets where securities such as shares and bonds are issued to raise medium to long-term financing.,Capital market
+do you know Capital market?,Capital markets are the markets where securities such as shares and bonds are issued to raise medium to long-term financing.,Capital market
+Tell me about capital market,Capital markets are the markets where securities such as shares and bonds are issued to raise medium to long-term financing.,Capital market
+capital market,Capital markets are the markets where securities such as shares and bonds are issued to raise medium to long-term financing.,Capital market
+What can be capital market,Capital markets are the markets where securities such as shares and bonds are issued to raise medium to long-term financing.,Capital market
+what do you mean by capital market,Capital markets are the markets where securities such as shares and bonds are issued to raise medium to long-term financing.,Capital market
+what is mean by capital ratio?,A commercial bank's capital ratio measures the funds it has in reserve against the riskier assets it holds that could be vulnerable in the event of a crisis.,Capital ratio
+what is mean by capital ratio?,"the extent to which a financial institution finances its operations by issuing shares and retaining profits, expressed as a percentage of its assets.",Capital ratio
+do you know Capital ratio?,A commercial bank's capital ratio measures the funds it has in reserve against the riskier assets it holds that could be vulnerable in the event of a crisis.,Capital ratio
+do you know Capital ratio?,"the extent to which a financial institution finances its operations by issuing shares and retaining profits, expressed as a percentage of its assets.",Capital ratio
+Tell me about capital ratio,A commercial bank's capital ratio measures the funds it has in reserve against the riskier assets it holds that could be vulnerable in the event of a crisis.,Capital ratio
+Tell me about capital ratio,"the extent to which a financial institution finances its operations by issuing shares and retaining profits, expressed as a percentage of its assets.",Capital ratio
+capital ratio,A commercial bank's capital ratio measures the funds it has in reserve against the riskier assets it holds that could be vulnerable in the event of a crisis.,Capital ratio
+capital ratio,"the extent to which a financial institution finances its operations by issuing shares and retaining profits, expressed as a percentage of its assets.",Capital ratio
+What can be capital ratio,A commercial bank's capital ratio measures the funds it has in reserve against the riskier assets it holds that could be vulnerable in the event of a crisis.,Capital ratio
+What can be capital ratio,"the extent to which a financial institution finances its operations by issuing shares and retaining profits, expressed as a percentage of its assets.",Capital ratio
+what do you mean by capital ratio,A commercial bank's capital ratio measures the funds it has in reserve against the riskier assets it holds that could be vulnerable in the event of a crisis.,Capital ratio
+what do you mean by capital ratio,"the extent to which a financial institution finances its operations by issuing shares and retaining profits, expressed as a percentage of its assets.",Capital ratio
+what is mean by credit risk?,Credit risk is the possibility of a loss resulting from a borrower's failure to repay a loan or meet contractual obligations,Credit risk
+what is mean by credit risk?,This is the risk to the commercial bank of lending to borrowers who turn out to be unable to repay their loans.,Credit risk
+do you know credit risk?,Credit risk is the possibility of a loss resulting from a borrower's failure to repay a loan or meet contractual obligations,Credit risk
+do you know credit risk?,This is the risk to the commercial bank of lending to borrowers who turn out to be unable to repay their loans.,Credit risk
+Tell me about credit risk,Credit risk is the possibility of a loss resulting from a borrower's failure to repay a loan or meet contractual obligations,Credit risk
+Tell me about credit risk,This is the risk to the commercial bank of lending to borrowers who turn out to be unable to repay their loans.,Credit risk
+what is credit risk,Credit risk is the possibility of a loss resulting from a borrower's failure to repay a loan or meet contractual obligations,Credit risk
+what is credit risk,This is the risk to the commercial bank of lending to borrowers who turn out to be unable to repay their loans.,Credit risk
+credit risk,Credit risk is the possibility of a loss resulting from a borrower's failure to repay a loan or meet contractual obligations,Credit risk
+credit risk,This is the risk to the commercial bank of lending to borrowers who turn out to be unable to repay their loans.,Credit risk
+What can be credit risk,Credit risk is the possibility of a loss resulting from a borrower's failure to repay a loan or meet contractual obligations,Credit risk
+What can be credit risk,This is the risk to the commercial bank of lending to borrowers who turn out to be unable to repay their loans.,Credit risk
+what do you mean by credit risk,Credit risk is the possibility of a loss resulting from a borrower's failure to repay a loan or meet contractual obligations,Credit risk
+what do you mean by credit risk,This is the risk to the commercial bank of lending to borrowers who turn out to be unable to repay their loans.,Credit risk
+what is mean by crowdfunding?,Crowdfunding is a form of equity finance that has grown rapidly in the USA and the UK in particular.,Crowdfunding
+what is mean by crowdfunding?,Crowdfunding involves the collective effort of a large number of individuals who network and pool small amounts of their capital to finance a new or existing business venture. Social causes remain the most active source of crowdfunding activity.,Crowdfunding
+what is mean by crowdfunding?, Crowdfunding is the use of small amounts of capital from a large number of individuals to finance a new business venture.,Crowdfunding
+do you know crowdfunding?,Crowdfunding is a form of equity finance that has grown rapidly in the USA and the UK in particular.,Crowdfunding
+do you know crowdfunding?,Crowdfunding involves the collective effort of a large number of individuals who network and pool small amounts of their capital to finance a new or existing business venture. Social causes remain the most active source of crowdfunding activity.,Crowdfunding
+do you know crowdfunding?, Crowdfunding is the use of small amounts of capital from a large number of individuals to finance a new business venture.,Crowdfunding
+Tell me about crowdfunding,Crowdfunding is a form of equity finance that has grown rapidly in the USA and the UK in particular.,Crowdfunding
+Tell me about crowdfunding,Crowdfunding involves the collective effort of a large number of individuals who network and pool small amounts of their capital to finance a new or existing business venture. Social causes remain the most active source of crowdfunding activity.,Crowdfunding
+Tell me about crowdfunding, Crowdfunding is the use of small amounts of capital from a large number of individuals to finance a new business venture.,Crowdfunding
+what is crowdfunding?,Crowdfunding is a form of equity finance that has grown rapidly in the USA and the UK in particular.,Crowdfunding
+what is crowdfunding?,Crowdfunding involves the collective effort of a large number of individuals who network and pool small amounts of their capital to finance a new or existing business venture. Social causes remain the most active source of crowdfunding activity.,Crowdfunding
+what is crowdfunding?, Crowdfunding is the use of small amounts of capital from a large number of individuals to finance a new business venture.,Crowdfunding
+crowdfunding,Crowdfunding is a form of equity finance that has grown rapidly in the USA and the UK in particular.,Crowdfunding
+crowdfunding,Crowdfunding involves the collective effort of a large number of individuals who network and pool small amounts of their capital to finance a new or existing business venture. Social causes remain the most active source of crowdfunding activity.,Crowdfunding
+crowdfunding, Crowdfunding is the use of small amounts of capital from a large number of individuals to finance a new business venture.,Crowdfunding
+What can be crowdfunding,Crowdfunding is a form of equity finance that has grown rapidly in the USA and the UK in particular.,Crowdfunding
+What can be crowdfunding,Crowdfunding involves the collective effort of a large number of individuals who network and pool small amounts of their capital to finance a new or existing business venture. Social causes remain the most active source of crowdfunding activity.,Crowdfunding
+What can be crowdfunding, Crowdfunding is the use of small amounts of capital from a large number of individuals to finance a new business venture.,Crowdfunding
+what do you mean by crowdfunding,Crowdfunding is a form of equity finance that has grown rapidly in the USA and the UK in particular.,Crowdfunding
+what do you mean by crowdfunding,Crowdfunding involves the collective effort of a large number of individuals who network and pool small amounts of their capital to finance a new or existing business venture. Social causes remain the most active source of crowdfunding activity.,Crowdfunding
+what do you mean by crowdfunding, Crowdfunding is the use of small amounts of capital from a large number of individuals to finance a new business venture.,Crowdfunding
+what is mean by cryptocurrency?,A cryptocurrency is a digital or virtual currency that uses cryptography and is difficult to counterfeit because of this security feature.,cryptocurrency
+what is mean by cryptocurrency?,A cryptocurrency is a digital or virtual currency designed to work as a medium of exchange,cryptocurrency
+do you know cryptocurrency?,A cryptocurrency is a digital or virtual currency that uses cryptography and is difficult to counterfeit because of this security feature.,cryptocurrency
+do you know cryptocurrency?,A cryptocurrency is a digital or virtual currency designed to work as a medium of exchange,cryptocurrency
+what is cryptocurrency,A cryptocurrency is a digital or virtual currency that uses cryptography and is difficult to counterfeit because of this security feature.,cryptocurrency
+what is cryptocurrency,A cryptocurrency is a digital or virtual currency designed to work as a medium of exchange,cryptocurrency
+Tell me about cryptocurrency,A cryptocurrency is a digital or virtual currency that uses cryptography and is difficult to counterfeit because of this security feature.,cryptocurrency
+Tell me about cryptocurrency,A cryptocurrency is a digital or virtual currency designed to work as a medium of exchange,cryptocurrency
+cryptocurrency,A cryptocurrency is a digital or virtual currency that uses cryptography and is difficult to counterfeit because of this security feature.,cryptocurrency
+cryptocurrency,A cryptocurrency is a digital or virtual currency designed to work as a medium of exchange,cryptocurrency
+What can be cryptocurrency,A cryptocurrency is a digital or virtual currency that uses cryptography and is difficult to counterfeit because of this security feature.,cryptocurrency
+What can be cryptocurrency,A cryptocurrency is a digital or virtual currency designed to work as a medium of exchange,cryptocurrency
+what do you mean by cryptocurrency,A cryptocurrency is a digital or virtual currency that uses cryptography and is difficult to counterfeit because of this security feature.,cryptocurrency
+what do you mean by cryptocurrency,A cryptocurrency is a digital or virtual currency designed to work as a medium of exchange,cryptocurrency
+what is mean by demonetisation?,"Yes,Demonetization is the act of stripping a currency unit of its status as legal tender.",Demonetisation
+what is mean by demonetisation?,Demonetisation is a process of removing a unit of currency from circulation by stripping it of its legal tender status,Demonetisation
+what is mean by demonetisation?,"Yes, Demonetization occurs when a governing body cancels the legal tender status of a currency unit in circulation.",Demonetisation
+do you know about demonetization that happened in our India in 2016?,"Yes,Demonetization is the act of stripping a currency unit of its status as legal tender.",Demonetisation
+do you know about demonetization that happened in our India in 2016?,Demonetisation is a process of removing a unit of currency from circulation by stripping it of its legal tender status,Demonetisation
+do you know about demonetization that happened in our India in 2016?,"Yes, Demonetization occurs when a governing body cancels the legal tender status of a currency unit in circulation.",Demonetisation
+what is demonetisation,"Yes,Demonetization is the act of stripping a currency unit of its status as legal tender.",Demonetisation
+what is demonetisation,Demonetisation is a process of removing a unit of currency from circulation by stripping it of its legal tender status,Demonetisation
+what is demonetisation,"Yes, Demonetization occurs when a governing body cancels the legal tender status of a currency unit in circulation.",Demonetisation
+What can be demonetisation,"Yes,Demonetization is the act of stripping a currency unit of its status as legal tender.",Demonetisation
+What can be demonetisation,Demonetisation is a process of removing a unit of currency from circulation by stripping it of its legal tender status,Demonetisation
+What can be demonetisation,"Yes, Demonetization occurs when a governing body cancels the legal tender status of a currency unit in circulation.",Demonetisation
+what do you mean by demonetisation,"Yes,Demonetization is the act of stripping a currency unit of its status as legal tender.",Demonetisation
+what do you mean by demonetisation,Demonetisation is a process of removing a unit of currency from circulation by stripping it of its legal tender status,Demonetisation
+what do you mean by demonetisation,"Yes, Demonetization occurs when a governing body cancels the legal tender status of a currency unit in circulation.",Demonetisation
+Tell me about demonetisation,"Yes,Demonetization is the act of stripping a currency unit of its status as legal tender.",Demonetisation
+Tell me about demonetisation,Demonetisation is a process of removing a unit of currency from circulation by stripping it of its legal tender status,Demonetisation
+Tell me about demonetisation,"Yes, Demonetization occurs when a governing body cancels the legal tender status of a currency unit in circulation.",Demonetisation
+Demonetisation in India,"Yes,Demonetization is the act of stripping a currency unit of its status as legal tender.",Demonetisation
+Demonetisation in India,Demonetisation is a process of removing a unit of currency from circulation by stripping it of its legal tender status,Demonetisation
+Demonetisation in India,"Yes, Demonetization occurs when a governing body cancels the legal tender status of a currency unit in circulation.",Demonetisation
+Demonetisation,"Yes,Demonetization is the act of stripping a currency unit of its status as legal tender.",Demonetisation
+Demonetisation,Demonetisation is a process of removing a unit of currency from circulation by stripping it of its legal tender status,Demonetisation
+Demonetisation,"Yes, Demonetization occurs when a governing body cancels the legal tender status of a currency unit in circulation.",Demonetisation
+what is mean by financial crisis in a country?,"A disturbance to financial markets, associated typically with falling asset prices and insolvency amongst debtors and intermediaries, which ramifies through the financial system, disrupting the market’s capacity to allocate capital",Financial crisis
+what is mean by financial crisis in a country?,A financial crisis is a situation where the value of assets drop rapidly and is often triggered by a panic or a run on banks.,Financial crisis
+do you know bank capital?,"A disturbance to financial markets, associated typically with falling asset prices and insolvency amongst debtors and intermediaries, which ramifies through the financial system, disrupting the market’s capacity to allocate capital",Financial crisis
+do you know bank capital?,A financial crisis is a situation where the value of assets drop rapidly and is often triggered by a panic or a run on banks.,Financial crisis
+Tell me about bank capital,"A disturbance to financial markets, associated typically with falling asset prices and insolvency amongst debtors and intermediaries, which ramifies through the financial system, disrupting the market’s capacity to allocate capital",Financial crisis
+Tell me about bank capital,A financial crisis is a situation where the value of assets drop rapidly and is often triggered by a panic or a run on banks.,Financial crisis
+bank capital,"A disturbance to financial markets, associated typically with falling asset prices and insolvency amongst debtors and intermediaries, which ramifies through the financial system, disrupting the market’s capacity to allocate capital",Financial crisis
+bank capital,A financial crisis is a situation where the value of assets drop rapidly and is often triggered by a panic or a run on banks.,Financial crisis
+What can be bank capital,"A disturbance to financial markets, associated typically with falling asset prices and insolvency amongst debtors and intermediaries, which ramifies through the financial system, disrupting the market’s capacity to allocate capital",Financial crisis
+What can be bank capital,A financial crisis is a situation where the value of assets drop rapidly and is often triggered by a panic or a run on banks.,Financial crisis
+what do you mean by bank capital,"A disturbance to financial markets, associated typically with falling asset prices and insolvency amongst debtors and intermediaries, which ramifies through the financial system, disrupting the market’s capacity to allocate capital",Financial crisis
+what do you mean by bank capital,A financial crisis is a situation where the value of assets drop rapidly and is often triggered by a panic or a run on banks.,Financial crisis
+what is mean by liquidity?,Liquidity means the ease and cost with which assets can be turned into cash and used immediately as a means of exchange. Cash is very liquid whereas a life assurance policy is less so.,liquidity
+what is mean by liquidity?,It is the the availability of liquid assets such as cash to a market or company.,liquidity
+do you know liquidity in financial markets?,Liquidity means the ease and cost with which assets can be turned into cash and used immediately as a means of exchange. Cash is very liquid whereas a life assurance policy is less so.,liquidity
+do you know liquidity in financial markets?,It is the the availability of liquid assets such as cash to a market or company.,liquidity
+what is liquidity?,Liquidity means the ease and cost with which assets can be turned into cash and used immediately as a means of exchange. Cash is very liquid whereas a life assurance policy is less so.,liquidity
+what is liquidity?,It is the the availability of liquid assets such as cash to a market or company.,liquidity
+liquidity,Liquidity means the ease and cost with which assets can be turned into cash and used immediately as a means of exchange. Cash is very liquid whereas a life assurance policy is less so.,liquidity
+liquidity,It is the the availability of liquid assets such as cash to a market or company.,liquidity
+What can be liquidity,Liquidity means the ease and cost with which assets can be turned into cash and used immediately as a means of exchange. Cash is very liquid whereas a life assurance policy is less so.,liquidity
+What can be liquidity,It is the the availability of liquid assets such as cash to a market or company.,liquidity
+what do you mean by liquidity,Liquidity means the ease and cost with which assets can be turned into cash and used immediately as a means of exchange. Cash is very liquid whereas a life assurance policy is less so.,liquidity
+what do you mean by liquidity,It is the the availability of liquid assets such as cash to a market or company.,liquidity
+what is mean by leverage?,Leverage is the use of borrowed funds to increase profitability. One measure of leverage is the amount of long term debt relative to equity,leverage
+what is mean by leverage?,"Leverage is an investment strategy of using borrowed money—specifically, the use of various financial instruments or borrowed capital—to increase the potential return of an investment",leverage
+what is mean by leverage?,"Financial leverage which is also known as leverage or trading on equity, refers to the use of debt to acquire additional assets.",leverage
+do you know about leverage?,Leverage is the use of borrowed funds to increase profitability. One measure of leverage is the amount of long term debt relative to equity,leverage
+do you know about leverage?,"Leverage is an investment strategy of using borrowed money—specifically, the use of various financial instruments or borrowed capital—to increase the potential return of an investment",leverage
+do you know about leverage?,"Financial leverage which is also known as leverage or trading on equity, refers to the use of debt to acquire additional assets.",leverage
+do you know leverage?,Leverage is the use of borrowed funds to increase profitability. One measure of leverage is the amount of long term debt relative to equity,leverage
+do you know leverage?,"Leverage is an investment strategy of using borrowed money—specifically, the use of various financial instruments or borrowed capital—to increase the potential return of an investment",leverage
+do you know leverage?,"Financial leverage which is also known as leverage or trading on equity, refers to the use of debt to acquire additional assets.",leverage
+Tell me about leverage,Leverage is the use of borrowed funds to increase profitability. One measure of leverage is the amount of long term debt relative to equity,leverage
+Tell me about leverage,"Leverage is an investment strategy of using borrowed money—specifically, the use of various financial instruments or borrowed capital—to increase the potential return of an investment",leverage
+Tell me about leverage,"Financial leverage which is also known as leverage or trading on equity, refers to the use of debt to acquire additional assets.",leverage
+leverage,Leverage is the use of borrowed funds to increase profitability. One measure of leverage is the amount of long term debt relative to equity,leverage
+leverage,"Leverage is an investment strategy of using borrowed money—specifically, the use of various financial instruments or borrowed capital—to increase the potential return of an investment",leverage
+leverage,"Financial leverage which is also known as leverage or trading on equity, refers to the use of debt to acquire additional assets.",leverage
+What can be leverage,Leverage is the use of borrowed funds to increase profitability. One measure of leverage is the amount of long term debt relative to equity,leverage
+What can be leverage,"Leverage is an investment strategy of using borrowed money—specifically, the use of various financial instruments or borrowed capital—to increase the potential return of an investment",leverage
+What can be leverage,"Financial leverage which is also known as leverage or trading on equity, refers to the use of debt to acquire additional assets.",leverage
+what do you mean by leverage,Leverage is the use of borrowed funds to increase profitability. One measure of leverage is the amount of long term debt relative to equity,leverage
+what do you mean by leverage,"Leverage is an investment strategy of using borrowed money—specifically, the use of various financial instruments or borrowed capital—to increase the potential return of an investment",leverage
+what do you mean by leverage,"Financial leverage which is also known as leverage or trading on equity, refers to the use of debt to acquire additional assets.",leverage
+what is mean by liquidity trap?,A liquidity trap occurs when low interest rates and a high amount of cash balances in the economy fail to stimulate aggregate demand partly through a lack of confidence.,liquidity trap
+do you know liquidity trap?,A liquidity trap occurs when low interest rates and a high amount of cash balances in the economy fail to stimulate aggregate demand partly through a lack of confidence.,liquidity trap
+Hey tell me what is liquidity trap,A liquidity trap occurs when low interest rates and a high amount of cash balances in the economy fail to stimulate aggregate demand partly through a lack of confidence.,liquidity trap
+what is liquidity trap?,A liquidity trap occurs when low interest rates and a high amount of cash balances in the economy fail to stimulate aggregate demand partly through a lack of confidence.,liquidity trap
+liquidity trap,A liquidity trap occurs when low interest rates and a high amount of cash balances in the economy fail to stimulate aggregate demand partly through a lack of confidence.,liquidity trap
+What can be liquidity trap,A liquidity trap occurs when low interest rates and a high amount of cash balances in the economy fail to stimulate aggregate demand partly through a lack of confidence.,liquidity trap
+what do you mean by liquidity trap,A liquidity trap occurs when low interest rates and a high amount of cash balances in the economy fail to stimulate aggregate demand partly through a lack of confidence.,liquidity trap
+what is mean by monetary stability?,Monetary stability means stable prices and confidence in the currency. ,Monetary stability
+what is mean by monetary stability?,Monetary stability is a synonym for price stability. Price stability refers to a stable price level or a low level of inflation and not to stable individual prices,Monetary stability
+do you know about monetary stability?,Monetary stability means stable prices and confidence in the currency. ,Monetary stability
+do you know about monetary stability?,Monetary stability is a synonym for price stability. Price stability refers to a stable price level or a low level of inflation and not to stable individual prices,Monetary stability
+Tell me about what exactly monetary stability is.,Monetary stability means stable prices and confidence in the currency. ,Monetary stability
+Tell me about what exactly monetary stability is.,Monetary stability is a synonym for price stability. Price stability refers to a stable price level or a low level of inflation and not to stable individual prices,Monetary stability
+what is monetary stability,Monetary stability means stable prices and confidence in the currency. ,Monetary stability
+what is monetary stability,Monetary stability is a synonym for price stability. Price stability refers to a stable price level or a low level of inflation and not to stable individual prices,Monetary stability
+Monetary Stability,Monetary stability means stable prices and confidence in the currency. ,Monetary stability
+Monetary Stability,Monetary stability is a synonym for price stability. Price stability refers to a stable price level or a low level of inflation and not to stable individual prices,Monetary stability
+What can be Monitary Stability,Monetary stability means stable prices and confidence in the currency. ,Monetary stability
+What can be Monitary Stability,Monetary stability is a synonym for price stability. Price stability refers to a stable price level or a low level of inflation and not to stable individual prices,Monetary stability
+what do you mean by Monitary stability,Monetary stability means stable prices and confidence in the currency. ,Monetary stability
+what do you mean by Monitary stability,Monetary stability is a synonym for price stability. Price stability refers to a stable price level or a low level of inflation and not to stable individual prices,Monetary stability
+what is moral hazard?,When the party with superior information alters his/her behaviour in such a way that benefits himself while imposing costs on those with inferior information.,Moral hazard
+what is moral hazard?,"For example, moral hazard occurs when insured consumers are likely to take greater risks, knowing that a claim will be paid for by their cover. The consumer knows more about his/her intended actions than the producer (e.g. the insurer).",Moral hazard
+what is mean by moral hazard?,When the party with superior information alters his/her behaviour in such a way that benefits himself while imposing costs on those with inferior information.,Moral hazard
+what is mean by moral hazard?,"For example, moral hazard occurs when insured consumers are likely to take greater risks, knowing that a claim will be paid for by their cover. The consumer knows more about his/her intended actions than the producer (e.g. the insurer).",Moral hazard
+tell me an example of moral hazard?,When the party with superior information alters his/her behaviour in such a way that benefits himself while imposing costs on those with inferior information.,Moral hazard
+tell me an example of moral hazard?,"For example, moral hazard occurs when insured consumers are likely to take greater risks, knowing that a claim will be paid for by their cover. The consumer knows more about his/her intended actions than the producer (e.g. the insurer).",Moral hazard
+do you know moral hazard,When the party with superior information alters his/her behaviour in such a way that benefits himself while imposing costs on those with inferior information.,Moral hazard
+do you know moral hazard,"For example, moral hazard occurs when insured consumers are likely to take greater risks, knowing that a claim will be paid for by their cover. The consumer knows more about his/her intended actions than the producer (e.g. the insurer).",Moral hazard
+moral hazard,When the party with superior information alters his/her behaviour in such a way that benefits himself while imposing costs on those with inferior information.,Moral hazard
+moral hazard,"For example, moral hazard occurs when insured consumers are likely to take greater risks, knowing that a claim will be paid for by their cover. The consumer knows more about his/her intended actions than the producer (e.g. the insurer).",Moral hazard
+What can be moral hazard,When the party with superior information alters his/her behaviour in such a way that benefits himself while imposing costs on those with inferior information.,Moral hazard
+What can be moral hazard,"For example, moral hazard occurs when insured consumers are likely to take greater risks, knowing that a claim will be paid for by their cover. The consumer knows more about his/her intended actions than the producer (e.g. the insurer).",Moral hazard
+what do you mean by moral hazard,When the party with superior information alters his/her behaviour in such a way that benefits himself while imposing costs on those with inferior information.,Moral hazard
+what do you mean by moral hazard,"For example, moral hazard occurs when insured consumers are likely to take greater risks, knowing that a claim will be paid for by their cover. The consumer knows more about his/her intended actions than the producer (e.g. the insurer).",Moral hazard
+what is mean by nominal interest rate?,The nominal interest rate is the interest rate on a loan or on savings deposits unadjusted for the rate of inflation.,nominal interest rate
+what is mean by nominal interest rate?,"In short, it is the sum of real interest rate and inflation",nominal interest rate
+do you know nominal interest rate?,The nominal interest rate is the interest rate on a loan or on savings deposits unadjusted for the rate of inflation.,nominal interest rate
+do you know nominal interest rate?,"In short, it is the sum of real interest rate and inflation",nominal interest rate
+what is nominal interest rate?,The nominal interest rate is the interest rate on a loan or on savings deposits unadjusted for the rate of inflation.,nominal interest rate
+what is nominal interest rate?,"In short, it is the sum of real interest rate and inflation",nominal interest rate
+Tell me about nominal interest rate,The nominal interest rate is the interest rate on a loan or on savings deposits unadjusted for the rate of inflation.,nominal interest rate
+Tell me about nominal interest rate,"In short, it is the sum of real interest rate and inflation",nominal interest rate
+nominal interest rate,The nominal interest rate is the interest rate on a loan or on savings deposits unadjusted for the rate of inflation.,nominal interest rate
+nominal interest rate,"In short, it is the sum of real interest rate and inflation",nominal interest rate
+What can be nominal interest rate,The nominal interest rate is the interest rate on a loan or on savings deposits unadjusted for the rate of inflation.,nominal interest rate
+What can be nominal interest rate,"In short, it is the sum of real interest rate and inflation",nominal interest rate
+what do you mean by nominal interest rate,The nominal interest rate is the interest rate on a loan or on savings deposits unadjusted for the rate of inflation.,nominal interest rate
+what do you mean by nominal interest rate,"In short, it is the sum of real interest rate and inflation",nominal interest rate
+what is mean by real interest rate?,A real interest rate is an interest rate that has been adjusted to remove the effects of inflation to reflect the real cost of funds to the borrower and the real yield to the lender or to an investor.,real interest rate
+what is mean by real interest rate?,The real interest rate reflects the rate of time-preference for current goods over future goods.,real interest rate
+do you know real interst rate?,A real interest rate is an interest rate that has been adjusted to remove the effects of inflation to reflect the real cost of funds to the borrower and the real yield to the lender or to an investor.,real interest rate
+do you know real interst rate?,The real interest rate reflects the rate of time-preference for current goods over future goods.,real interest rate
+what is real interest rate,A real interest rate is an interest rate that has been adjusted to remove the effects of inflation to reflect the real cost of funds to the borrower and the real yield to the lender or to an investor.,real interest rate
+what is real interest rate,The real interest rate reflects the rate of time-preference for current goods over future goods.,real interest rate
+Tell me about real interest rate,A real interest rate is an interest rate that has been adjusted to remove the effects of inflation to reflect the real cost of funds to the borrower and the real yield to the lender or to an investor.,real interest rate
+Tell me about real interest rate,The real interest rate reflects the rate of time-preference for current goods over future goods.,real interest rate
+real interest rate,A real interest rate is an interest rate that has been adjusted to remove the effects of inflation to reflect the real cost of funds to the borrower and the real yield to the lender or to an investor.,real interest rate
+real interest rate,The real interest rate reflects the rate of time-preference for current goods over future goods.,real interest rate
+what can be real interest rate?,A real interest rate is an interest rate that has been adjusted to remove the effects of inflation to reflect the real cost of funds to the borrower and the real yield to the lender or to an investor.,real interest rate
+what can be real interest rate?,The real interest rate reflects the rate of time-preference for current goods over future goods.,real interest rate
+What do you mean by real interest rate,A real interest rate is an interest rate that has been adjusted to remove the effects of inflation to reflect the real cost of funds to the borrower and the real yield to the lender or to an investor.,real interest rate
+What do you mean by real interest rate,The real interest rate reflects the rate of time-preference for current goods over future goods.,real interest rate
+what is mean by narrow money?,"Narrow money refers to a category of money supply that includes all the real money held by the central bank. It includes coins and currency, demand deposits, and other liquid assets.",narrow money
+what is mean by narrow money?,The narrow money definition of the money supply is a measure of the value coins and notes in circulation and other money equivalents that are easily convertible into cash such as short term deposits in the banking system.,narrow money
+do you know narrow money in financial markets?,"Narrow money refers to a category of money supply that includes all the real money held by the central bank. It includes coins and currency, demand deposits, and other liquid assets.",narrow money
+do you know narrow money in financial markets?,The narrow money definition of the money supply is a measure of the value coins and notes in circulation and other money equivalents that are easily convertible into cash such as short term deposits in the banking system.,narrow money
+what is narrow money,"Narrow money refers to a category of money supply that includes all the real money held by the central bank. It includes coins and currency, demand deposits, and other liquid assets.",narrow money
+what is narrow money,The narrow money definition of the money supply is a measure of the value coins and notes in circulation and other money equivalents that are easily convertible into cash such as short term deposits in the banking system.,narrow money
+Tell me about Narrow money,"Narrow money refers to a category of money supply that includes all the real money held by the central bank. It includes coins and currency, demand deposits, and other liquid assets.",narrow money
+Tell me about Narrow money,The narrow money definition of the money supply is a measure of the value coins and notes in circulation and other money equivalents that are easily convertible into cash such as short term deposits in the banking system.,narrow money
+Narrow money,"Narrow money refers to a category of money supply that includes all the real money held by the central bank. It includes coins and currency, demand deposits, and other liquid assets.",narrow money
+Narrow money,The narrow money definition of the money supply is a measure of the value coins and notes in circulation and other money equivalents that are easily convertible into cash such as short term deposits in the banking system.,narrow money
+what can be Narrow money,"Narrow money refers to a category of money supply that includes all the real money held by the central bank. It includes coins and currency, demand deposits, and other liquid assets.",narrow money
+what can be Narrow money,The narrow money definition of the money supply is a measure of the value coins and notes in circulation and other money equivalents that are easily convertible into cash such as short term deposits in the banking system.,narrow money
+What do you mean by Narrow money,"Narrow money refers to a category of money supply that includes all the real money held by the central bank. It includes coins and currency, demand deposits, and other liquid assets.",narrow money
+What do you mean by Narrow money,The narrow money definition of the money supply is a measure of the value coins and notes in circulation and other money equivalents that are easily convertible into cash such as short term deposits in the banking system.,narrow money
+what is mean by pass porting?,Passporting allows a firm registered in the European Economic Area (EEA) to do business in any other EEA state without the need for further authorization from each country.,passporting
+what is mean by pass porting?,"EU legislation gives UK banks, insurers and investment firms ‘passporting’ rights to provide a range of financial services to clients across the EU – either cross-border or through local branches – while remaining regulated solely by their ‘home’ state.",passporting
+do you know passporting?,Passporting allows a firm registered in the European Economic Area (EEA) to do business in any other EEA state without the need for further authorization from each country.,passporting
+do you know passporting?,"EU legislation gives UK banks, insurers and investment firms ‘passporting’ rights to provide a range of financial services to clients across the EU – either cross-border or through local branches – while remaining regulated solely by their ‘home’ state.",passporting
+what is passporting,Passporting allows a firm registered in the European Economic Area (EEA) to do business in any other EEA state without the need for further authorization from each country.,passporting
+what is passporting,"EU legislation gives UK banks, insurers and investment firms ‘passporting’ rights to provide a range of financial services to clients across the EU – either cross-border or through local branches – while remaining regulated solely by their ‘home’ state.",passporting
+Tell me about passporting,Passporting allows a firm registered in the European Economic Area (EEA) to do business in any other EEA state without the need for further authorization from each country.,passporting
+Tell me about passporting,"EU legislation gives UK banks, insurers and investment firms ‘passporting’ rights to provide a range of financial services to clients across the EU – either cross-border or through local branches – while remaining regulated solely by their ‘home’ state.",passporting
+passporting,Passporting allows a firm registered in the European Economic Area (EEA) to do business in any other EEA state without the need for further authorization from each country.,passporting
+passporting,"EU legislation gives UK banks, insurers and investment firms ‘passporting’ rights to provide a range of financial services to clients across the EU – either cross-border or through local branches – while remaining regulated solely by their ‘home’ state.",passporting
+What can be passporting,Passporting allows a firm registered in the European Economic Area (EEA) to do business in any other EEA state without the need for further authorization from each country.,passporting
+What can be passporting,"EU legislation gives UK banks, insurers and investment firms ‘passporting’ rights to provide a range of financial services to clients across the EU – either cross-border or through local branches – while remaining regulated solely by their ‘home’ state.",passporting
+what do you mean by passporting,Passporting allows a firm registered in the European Economic Area (EEA) to do business in any other EEA state without the need for further authorization from each country.,passporting
+what do you mean by passporting,"EU legislation gives UK banks, insurers and investment firms ‘passporting’ rights to provide a range of financial services to clients across the EU – either cross-border or through local branches – while remaining regulated solely by their ‘home’ state.",passporting
+what is mean by Prudential Regulation Authority or PRA?,"The PRA is part of the Bank of England and is responsible for the prudential regulation and supervision of around 1,700 banks, building societies, credit unions, insurers and major investment firms.",PRA
+what is mean by Prudential Regulation Authority or PRA?,"The PRA has a particular focus on the solvency of specific financial markets such as: Insurance providers, Buy-to-let mortgage lenders, Credit unions and other specialist lenders.",PRA
+do you know PRA?,"The PRA is part of the Bank of England and is responsible for the prudential regulation and supervision of around 1,700 banks, building societies, credit unions, insurers and major investment firms.",PRA
+do you know PRA?,"The PRA has a particular focus on the solvency of specific financial markets such as: Insurance providers, Buy-to-let mortgage lenders, Credit unions and other specialist lenders.",PRA
+what is PRA,"The PRA is part of the Bank of England and is responsible for the prudential regulation and supervision of around 1,700 banks, building societies, credit unions, insurers and major investment firms.",PRA
+what is PRA,"The PRA has a particular focus on the solvency of specific financial markets such as: Insurance providers, Buy-to-let mortgage lenders, Credit unions and other specialist lenders.",PRA
+PRA,"The PRA is part of the Bank of England and is responsible for the prudential regulation and supervision of around 1,700 banks, building societies, credit unions, insurers and major investment firms.",PRA
+PRA,"The PRA has a particular focus on the solvency of specific financial markets such as: Insurance providers, Buy-to-let mortgage lenders, Credit unions and other specialist lenders.",PRA
+what can be PRA,"The PRA is part of the Bank of England and is responsible for the prudential regulation and supervision of around 1,700 banks, building societies, credit unions, insurers and major investment firms.",PRA
+what can be PRA,"The PRA has a particular focus on the solvency of specific financial markets such as: Insurance providers, Buy-to-let mortgage lenders, Credit unions and other specialist lenders.",PRA
+what is mean by ring-fence?,A ring-fence is a virtual barrier that segregates a portion of an individual's or company's financial assets from the rest.,Ring Fence
+what is mean by ring-fence?,Ringfencing is when a regulated public utility business financially separates itself from a parent company that engages in non-regulated business.,Ring Fence
+do you know ring fence?,A ring-fence is a virtual barrier that segregates a portion of an individual's or company's financial assets from the rest.,Ring Fence
+do you know ring fence?,Ringfencing is when a regulated public utility business financially separates itself from a parent company that engages in non-regulated business.,Ring Fence
+Ring fencing?,A ring-fence is a virtual barrier that segregates a portion of an individual's or company's financial assets from the rest.,Ring Fence
+Ring fencing?,Ringfencing is when a regulated public utility business financially separates itself from a parent company that engages in non-regulated business.,Ring Fence
+what is ring fence,A ring-fence is a virtual barrier that segregates a portion of an individual's or company's financial assets from the rest.,Ring Fence
+what is ring fence,Ringfencing is when a regulated public utility business financially separates itself from a parent company that engages in non-regulated business.,Ring Fence
+Tell me about ring fence,A ring-fence is a virtual barrier that segregates a portion of an individual's or company's financial assets from the rest.,Ring Fence
+Tell me about ring fence,Ringfencing is when a regulated public utility business financially separates itself from a parent company that engages in non-regulated business.,Ring Fence
+Ring Fence,A ring-fence is a virtual barrier that segregates a portion of an individual's or company's financial assets from the rest.,Ring Fence
+Ring Fence,Ringfencing is when a regulated public utility business financially separates itself from a parent company that engages in non-regulated business.,Ring Fence
+what is mean by Value at risk?,Value at risk is a measure of the maximum loss expected on an investment.,VAR
+what is mean by Value at risk?,"For example, a 2% value at risk of a £3 million investment means that there is a 2% chance that a portfolio will lose £3 million in a given year.",VAR
+do you know VAR?,Value at risk is a measure of the maximum loss expected on an investment.,VAR
+do you know VAR?,"For example, a 2% value at risk of a £3 million investment means that there is a 2% chance that a portfolio will lose £3 million in a given year.",VAR
+what is exactly VAR?,Value at risk is a measure of the maximum loss expected on an investment.,VAR
+what is exactly VAR?,"For example, a 2% value at risk of a £3 million investment means that there is a 2% chance that a portfolio will lose £3 million in a given year.",VAR
+what is VAR,Value at risk is a measure of the maximum loss expected on an investment.,VAR
+what is VAR,"For example, a 2% value at risk of a £3 million investment means that there is a 2% chance that a portfolio will lose £3 million in a given year.",VAR
+Tell me about VAR,Value at risk is a measure of the maximum loss expected on an investment.,VAR
+Tell me about VAR,"For example, a 2% value at risk of a £3 million investment means that there is a 2% chance that a portfolio will lose £3 million in a given year.",VAR
+Do you know Value at Risk,Value at risk is a measure of the maximum loss expected on an investment.,VAR
+Do you know Value at Risk,"For example, a 2% value at risk of a £3 million investment means that there is a 2% chance that a portfolio will lose £3 million in a given year.",VAR
+VAR,Value at risk is a measure of the maximum loss expected on an investment.,VAR
+VAR,"For example, a 2% value at risk of a £3 million investment means that there is a 2% chance that a portfolio will lose £3 million in a given year.",VAR
+Value at Risk,Value at risk is a measure of the maximum loss expected on an investment.,VAR
+Value at Risk,"For example, a 2% value at risk of a £3 million investment means that there is a 2% chance that a portfolio will lose £3 million in a given year.",VAR
+What is mean by Compound interest,It is the interest on the amount of money you have deposited or borrowed,Compound interest
+What is mean by Compound interest,"When you are investing or saving, compound interest is charged on the original amount you have accumulated over time",Compound interest
+Compound interest,It is the interest on the amount of money you have deposited or borrowed,Compound interest
+Compound interest,"When you are investing or saving, compound interest is charged on the original amount you have accumulated over time",Compound interest
+what is compound interest,It is the interest on the amount of money you have deposited or borrowed,Compound interest
+what is compound interest,"When you are investing or saving, compound interest is charged on the original amount you have accumulated over time",Compound interest
+Tell me about compound interest,It is the interest on the amount of money you have deposited or borrowed,Compound interest
+Tell me about compound interest,"When you are investing or saving, compound interest is charged on the original amount you have accumulated over time",Compound interest
+Do you know compound interest?,It is the interest on the amount of money you have deposited or borrowed,Compound interest
+Do you know compound interest?,"When you are investing or saving, compound interest is charged on the original amount you have accumulated over time",Compound interest
+What can be compound interest,It is the interest on the amount of money you have deposited or borrowed,Compound interest
+What can be compound interest,"When you are investing or saving, compound interest is charged on the original amount you have accumulated over time",Compound interest
+What do you mean by compound interest,It is the interest on the amount of money you have deposited or borrowed,Compound interest
+What do you mean by compound interest,"When you are investing or saving, compound interest is charged on the original amount you have accumulated over time",Compound interest
+What is Fico Score,"Your Fico score is based on several factors including payment history, the length of your credit history and total amount owed",FICO score
+What is Fico Score,"Fico Score Reanges from 300 to 850, and the higher the score,the better the terms you may receive on your next loan or credit card.",FICO score
+What is Fico Score,People with Fico scores below 620 may have a harder time securing credit at a favourable interest rate,FICO score
+What is mean by Fico Score,"Your Fico score is based on several factors including payment history, the length of your credit history and total amount owed",FICO score
+What is mean by Fico Score,"Fico Score Reanges from 300 to 850, and the higher the score,the better the terms you may receive on your next loan or credit card.",FICO score
+What is mean by Fico Score,People with Fico scores below 620 may have a harder time securing credit at a favourable interest rate,FICO score
+Fico Score means?,"Your Fico score is based on several factors including payment history, the length of your credit history and total amount owed",FICO score
+Fico Score means?,"Fico Score Reanges from 300 to 850, and the higher the score,the better the terms you may receive on your next loan or credit card.",FICO score
+Fico Score means?,People with Fico scores below 620 may have a harder time securing credit at a favourable interest rate,FICO score
+Fico score,"Your Fico score is based on several factors including payment history, the length of your credit history and total amount owed",FICO score
+Fico score,"Fico Score Reanges from 300 to 850, and the higher the score,the better the terms you may receive on your next loan or credit card.",FICO score
+Fico score,People with Fico scores below 620 may have a harder time securing credit at a favourable interest rate,FICO score
+Do you know Fico Score,"Your Fico score is based on several factors including payment history, the length of your credit history and total amount owed",FICO score
+Do you know Fico Score,"Fico Score Reanges from 300 to 850, and the higher the score,the better the terms you may receive on your next loan or credit card.",FICO score
+Do you know Fico Score,People with Fico scores below 620 may have a harder time securing credit at a favourable interest rate,FICO score
+Tell me about Fico Score,"Your Fico score is based on several factors including payment history, the length of your credit history and total amount owed",FICO score
+Tell me about Fico Score,"Fico Score Reanges from 300 to 850, and the higher the score,the better the terms you may receive on your next loan or credit card.",FICO score
+Tell me about Fico Score,People with Fico scores below 620 may have a harder time securing credit at a favourable interest rate,FICO score
+What can be Fico score,"Your Fico score is based on several factors including payment history, the length of your credit history and total amount owed",FICO score
+What can be Fico score,"Fico Score Reanges from 300 to 850, and the higher the score,the better the terms you may receive on your next loan or credit card.",FICO score
+What can be Fico score,People with Fico scores below 620 may have a harder time securing credit at a favourable interest rate,FICO score
+What is Net Worth,Your networth is simply the difference between your assets,Net Worth
+What is mean by Net Worth,Your networth is simply the difference between your assets,Net Worth
+net worth means?,Your networth is simply the difference between your assets,Net Worth
+Net worth,Your networth is simply the difference between your assets,Net Worth
+Do you know Net Worth,Your networth is simply the difference between your assets,Net Worth
+Tell me about Net worth,Your networth is simply the difference between your assets,Net Worth
+What does Net worth do?,Your networth is simply the difference between your assets,Net Worth
+What do you mean by Net worth,Your networth is simply the difference between your assets,Net Worth
+what can be networth,Your networth is simply the difference between your assets,Net Worth
+What is Asset allocation,Asset allocation is where you choose to put your money,Asset allocation
+What is Asset allocation,"The three major asset classes are stocks, bonds, and cash",Asset allocation
+What is mean by Asset allocation,Asset allocation is where you choose to put your money,Asset allocation
+What is mean by Asset allocation,"The three major asset classes are stocks, bonds, and cash",Asset allocation
+Asset allocation means?,Asset allocation is where you choose to put your money,Asset allocation
+Asset allocation means?,"The three major asset classes are stocks, bonds, and cash",Asset allocation
+Asset allocation,Asset allocation is where you choose to put your money,Asset allocation
+Asset allocation,"The three major asset classes are stocks, bonds, and cash",Asset allocation
+Do you know Asset allocation,Asset allocation is where you choose to put your money,Asset allocation
+Do you know Asset allocation,"The three major asset classes are stocks, bonds, and cash",Asset allocation
+Tell me about Asset allocation,Asset allocation is where you choose to put your money,Asset allocation
+Tell me about Asset allocation,"The three major asset classes are stocks, bonds, and cash",Asset allocation
+What does Asset allocation do?,Asset allocation is where you choose to put your money,Asset allocation
+What does Asset allocation do?,"The three major asset classes are stocks, bonds, and cash",Asset allocation
+What `do you mean by Asset allocation,Asset allocation is where you choose to put your money,Asset allocation
+What `do you mean by Asset allocation,"The three major asset classes are stocks, bonds, and cash",Asset allocation
+what can be Asset allocation,Asset allocation is where you choose to put your money,Asset allocation
+what can be Asset allocation,"The three major asset classes are stocks, bonds, and cash",Asset allocation
+What is term life insurance,"Term life insurance provide coverage over a set period, generally anywhere from five to 30 years",Term life insurance
+What is term life insurance,"If you die within the set term, your beneficiaries receive a payout. If you don't,the policy expires with no value.",Term life insurance
+Do you know term life insurance,"Term life insurance provide coverage over a set period, generally anywhere from five to 30 years",Term life insurance
+Do you know term life insurance,"If you die within the set term, your beneficiaries receive a payout. If you don't,the policy expires with no value.",Term life insurance
+what is mean by term life insurance,"Term life insurance provide coverage over a set period, generally anywhere from five to 30 years",Term life insurance
+what is mean by term life insurance,"If you die within the set term, your beneficiaries receive a payout. If you don't,the policy expires with no value.",Term life insurance
+Tell me about term life insurance,"Term life insurance provide coverage over a set period, generally anywhere from five to 30 years",Term life insurance
+Tell me about term life insurance,"If you die within the set term, your beneficiaries receive a payout. If you don't,the policy expires with no value.",Term life insurance
+Thank you,Its my pleasure.,Thank you
+Thank you,You are welcome,Thank you
+Thank you,No problem. Its my pleasure to help you,Thank you
+Thank you so much for your help,Its my pleasure.,Thank you
+Thank you so much for your help,You are welcome,Thank you
+Thank you so much for your help,No problem. Its my pleasure to help you,Thank you
